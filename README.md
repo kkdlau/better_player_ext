@@ -4,7 +4,8 @@
 
 # Important
 
-The plugin is forked from the original better_player plugin, and the source code is modified in order to provide some additional features and fixed some bugs.
+* The plugin is forked from the original better_player plugin, and the source code is modified in order to provide some additional features and fixed some bugs.
+* This documentation is not revised, except this section.
 
 # Better Player
 [![pub package](https://img.shields.io/pub/v/better_player.svg)](https://pub.dartlang.org/packages/better_player)
